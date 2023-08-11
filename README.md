@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Konrad
 - 👀 I’m interested in understanding the process
-- 🌱 I’m currently learning all things React and TypeScript
 - 💞️ I’m looking to collaborate on unusuall and awesome stuff
 - 📫 How to reach me jaseveen@gmail.com
 
